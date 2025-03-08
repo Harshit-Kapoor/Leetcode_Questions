@@ -1,6 +1,6 @@
 class Solution {
 
-        public int removeDuplicates(int[] nums) {
+        public int removeDuplicates1(int[] nums) {
 
         Map<Integer, Integer> map = new LinkedHashMap<>();
 
@@ -18,6 +18,25 @@ class Solution {
 
         return size;
 
+    }
+
+    public static int removeDuplicates(int[] nums) {
+
+        int i = 0;
+
+        for (int j = 1; j < nums.length; j++) {
+
+            if (nums[j] != nums[i]) {
+                i++;
+                nums[i] = nums[j];
+            }
+
+        }
+
+        System.out.println(Arrays.toString(nums));
+
+        return i + 1;
+        
     }
     
 }
