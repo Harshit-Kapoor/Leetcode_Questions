@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0443-string-compression) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2465-shifting-letters-ii](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/2465-shifting-letters-ii) |
 ## Prefix Sum
 |  |
