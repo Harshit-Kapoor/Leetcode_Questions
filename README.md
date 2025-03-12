@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0038-count-and-say) |
+| [0151-reverse-words-in-a-string](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0443-string-compression) |
