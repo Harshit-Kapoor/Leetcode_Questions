@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0283-move-zeroes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2465-shifting-letters-ii](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/2465-shifting-letters-ii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Hash Table
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0169-majority-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Counting
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0443-string-compression) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Database
 |  |
 | ------- |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Greedy
+|  |
+| ------- |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
