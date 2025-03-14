@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0520-detect-capital) |
 | [0935-orderly-queue](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0935-orderly-queue) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1666-make-the-string-great](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1666-make-the-string-great) |
