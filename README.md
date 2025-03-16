@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0283-move-zeroes) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0169-majority-element) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Two Pointers
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0520-detect-capital) |
 | [0935-orderly-queue](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0935-orderly-queue) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1666-make-the-string-great](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1666-make-the-string-great) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1777-determine-if-two-strings-are-close) |
