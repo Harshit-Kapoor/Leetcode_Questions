@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0012-integer-to-roman) |
 | [0935-orderly-queue](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0935-orderly-queue) |
 | [1806-count-of-matches-in-tournament](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1806-count-of-matches-in-tournament) |
+| [2032-largest-odd-number-in-string](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/2032-largest-odd-number-in-string) |
 | [3212-count-the-number-of-good-partitions](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/3212-count-the-number-of-good-partitions) |
 ## Array
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2032-largest-odd-number-in-string](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2465-shifting-letters-ii](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/2465-shifting-letters-ii) |
 ## Prefix Sum
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2032-largest-odd-number-in-string](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
