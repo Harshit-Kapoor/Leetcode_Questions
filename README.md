@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0283-move-zeroes) |
 | [1002-maximum-width-ramp](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1002-maximum-width-ramp) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0389-find-the-difference) |
 | [0935-orderly-queue](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0935-orderly-queue) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1806-count-of-matches-in-tournament) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
