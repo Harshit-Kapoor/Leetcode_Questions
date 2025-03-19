@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0012-integer-to-roman) |
 | [0935-orderly-queue](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0935-orderly-queue) |
+| [1806-count-of-matches-in-tournament](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1806-count-of-matches-in-tournament) |
 | [3212-count-the-number-of-good-partitions](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/3212-count-the-number-of-good-partitions) |
 ## Array
 |  |
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3212-count-the-number-of-good-partitions](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/3212-count-the-number-of-good-partitions) |
+## Simulation
+|  |
+| ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1806-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
