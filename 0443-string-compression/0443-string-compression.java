@@ -2,32 +2,30 @@ class Solution {
 
     public static int compress(char[] chars) {
 
+        int currIndex = 0;
         int index = 0;
-        int i = 0;
 
-        while (i < chars.length){
+        while (currIndex < chars.length){
 
-            char curr_char = chars[i];
+            char currChar = chars[currIndex];
             int count = 0;
 
             // to find duplicates
-            while (i < chars.length && curr_char == chars[i]) {
+            while (currIndex < chars.length && currChar == chars[currIndex]) {
                 count++;
-                i++;
+                currIndex++;
             }
 
             // now do the assigning part
-            chars[index] = curr_char;
-            index++;
-
+            chars[index++] = currChar;
             if (count > 1) {
                 for (char c : String.valueOf(count).toCharArray()) {
                     chars[index++] = c;
                 }
-            }
+            } 
 
         }
-
+     
         return index;
 
     }
