@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1547-destination-city](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1547-destination-city) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0935-orderly-queue](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0935-orderly-queue) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0520-detect-capital) |
 | [0935-orderly-queue](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0935-orderly-queue) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Matrix
 |  |
@@ -204,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0048-rotate-image) |
 | [0898-transpose-matrix](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0898-transpose-matrix) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1704-special-positions-in-a-binary-matrix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
