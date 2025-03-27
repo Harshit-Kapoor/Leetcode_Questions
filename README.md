@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2465-shifting-letters-ii](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/2465-shifting-letters-ii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3212-count-the-number-of-good-partitions](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/3212-count-the-number-of-good-partitions) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0011-container-with-most-water) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/2032-largest-odd-number-in-string) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Stack
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Matrix
 |  |
 | ------- |
