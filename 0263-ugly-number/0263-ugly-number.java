@@ -1,6 +1,6 @@
 class Solution {
     
-    public boolean isUgly(long n) {
+    public boolean isUgly1(long n) {
         if (n <= 0) {
             return false; // Ugly numbers are always positive
         }
@@ -9,12 +9,39 @@ class Solution {
             return true; // 1 is considered an ugly number
         }
 
-        for (int i = 2; i <= 5; i++) {
+        for (int i=2; i<=5; i++) {
+
             while (n % i == 0) {
                 n = n / i;
             }
+
         }
 
+ 
+        return n == 1;
+    }
+
+        public boolean isUgly(long n) {
+        if (n <= 0) {
+            return false; // Ugly numbers are always positive
+        }
+
+        if (n == 1) {
+            return true; // 1 is considered an ugly number
+        }
+
+        while (n > 1) {
+            if (n % 2 == 0) {
+                n = n / 2;
+            } else if (n % 3 == 0) {
+                n = n / 3;
+            } else if (n % 5 == 0) {
+                n = n / 5;
+            } else {
+                return false;
+            }
+        }
+ 
         return n == 1;
     }
 }
