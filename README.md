@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/2465-shifting-letters-ii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3212-count-the-number-of-good-partitions](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/3212-count-the-number-of-good-partitions) |
+| [3643-zero-array-transformation-ii](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0303-range-sum-query-immutable) |
 | [2465-shifting-letters-ii](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/2465-shifting-letters-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [3643-zero-array-transformation-ii](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/3643-zero-array-transformation-ii) |
 ## Queue
 |  |
 | ------- |
