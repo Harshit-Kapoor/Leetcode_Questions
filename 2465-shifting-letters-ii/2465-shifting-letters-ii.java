@@ -11,7 +11,7 @@ class Solution {
             int leftIndex = shift[0];
             int rightIndex = shift[1];
             int direction = shift[2];
-
+    
             // if direction is 1, we have to move shift char forward, so our x value will be +1,
             // so as per our diff array logic we add x to leftIndex and minus it at r+1 index
 
