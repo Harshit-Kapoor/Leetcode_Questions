@@ -22,6 +22,7 @@ public static int numSubseq(int[] arr, int target) {
         }
 
         return result;
-    }}
+    }
+}
 
 
