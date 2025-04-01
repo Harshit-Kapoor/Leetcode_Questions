@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
+| [0937-online-stock-span](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1002-maximum-width-ramp) |
 | [1666-make-the-string-great](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1666-make-the-string-great) |
 ## Dynamic Programming
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
+| [0937-online-stock-span](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1002-maximum-width-ramp) |
 ## Bit Manipulation
 |  |
@@ -260,4 +262,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0303-range-sum-query-immutable) |
+| [0937-online-stock-span](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
