@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0048-rotate-image) |
+| [0224-basic-calculator](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0263-ugly-number) |
 | [0935-orderly-queue](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0935-orderly-queue) |
 | [1806-count-of-matches-in-tournament](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1806-count-of-matches-in-tournament) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0389-find-the-difference) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
+| [0224-basic-calculator](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0224-basic-calculator) |
 | [0937-online-stock-span](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1002-maximum-width-ramp) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -269,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0937-online-stock-span) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
