@@ -3,25 +3,21 @@ class Solution {
 
         HashMap<String, List<String>> map = new HashMap<>();
 
-        List<List<String>> ans = new ArrayList<>();
+        for (String word : strs) {
 
-        for (String s : strs) {
-
-            List<String> result = new ArrayList<>();
-
-            char[] ch = s.toCharArray();
-
+            char[] ch = word.toCharArray();
             Arrays.sort(ch);
+            String sortedVal = String.valueOf(ch);
 
-            String sortedString = String.valueOf(ch);
+            if (!map.containsKey(sortedVal)) {
+                map.put(sortedVal, new ArrayList<>());
+            }
 
-            if (map.containsKey(sortedString) == false) {
-                map.put(sortedString, new ArrayList<>());
-            } 
-
-            map.get(sortedString).add(s);
+            map.get(sortedVal).add(word);
 
         }
+
+        List<List<String>> ans = new ArrayList<>();
 
         for (String s : map.keySet()) {
             ans.add(map.get(s));
