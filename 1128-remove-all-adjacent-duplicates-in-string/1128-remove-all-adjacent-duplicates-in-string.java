@@ -15,17 +15,13 @@ class Solution {
 
         String initial = "";
 
+        StringBuilder sb = new StringBuilder();
+        
         while (!st.isEmpty()) {
-            initial += st.pop();
+            sb.append(st.pop());
         }
 
-        String ans = "";
-
-        for (int i=initial.length()-1; i>=0; i--) {
-            ans += initial.charAt(i);
-        }
-
-        return ans;
+        return sb.reverse().toString();
  
     }
 }
