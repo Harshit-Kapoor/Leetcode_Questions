@@ -9,20 +9,19 @@ class Solution {
         int i=0; int j = 0;
 
         while (j < n) {
-
-            // step 1
-            if (Math.abs(j - i) > k) {                 // should be i-j should be less than = to k
-                set.remove(nums[i]);
-                i++;                                    // shrinking
-            }
-
             if (set.contains(nums[j])) {
                 return true;
             }
 
             set.add(nums[j]);
-            j++;
 
+            // Shrink the window if its size exceeds k
+            if (j - i >= k) {
+                set.remove(nums[i]);
+                i++;
+            }
+
+            j++;
         }
 
         return false;
