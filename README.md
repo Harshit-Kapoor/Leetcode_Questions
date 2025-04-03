@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1547-destination-city](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1547-destination-city) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2211-k-radius-subarray-averages](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/2211-k-radius-subarray-averages) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Binary Search
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Monotonic Stack
 |  |
 | ------- |
