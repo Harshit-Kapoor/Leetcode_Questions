@@ -27,7 +27,7 @@ class Solution {
 
                 max = Math.max(max, lst.size());
 
-                if (s.charAt(i) == lst.get(0)) {
+                if (!lst.isEmpty() && s.charAt(i) == lst.get(0)) {
                     lst.remove(0);
                 }
 
