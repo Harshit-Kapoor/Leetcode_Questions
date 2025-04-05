@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0303-range-sum-query-immutable) |
+| [0496-next-greater-element-i](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
 | [0898-transpose-matrix](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0948-sort-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1547-destination-city](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1547-destination-city) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0224-basic-calculator](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0224-basic-calculator) |
+| [0496-next-greater-element-i](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1002-maximum-width-ramp) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1002-maximum-width-ramp) |
 ## Bit Manipulation
