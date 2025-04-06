@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -189,10 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0239-sliding-window-maximum) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0239-sliding-window-maximum) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Greedy
 |  |
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0948-sort-an-array) |
