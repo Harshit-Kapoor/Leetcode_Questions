@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1002-maximum-width-ramp) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1547-destination-city](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1547-destination-city) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1547-destination-city](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1547-destination-city) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0713-subarray-product-less-than-k) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2211-k-radius-subarray-averages](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/2211-k-radius-subarray-averages) |
