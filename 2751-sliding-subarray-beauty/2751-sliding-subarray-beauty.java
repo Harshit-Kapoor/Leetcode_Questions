@@ -18,10 +18,10 @@ class Solution {
                 j++;
             } else if (j - i + 1 == k) {
 
-                List<Integer> copy = new ArrayList<Integer>();
+                
 
                 if (!lst.isEmpty()) {
-                    copy.addAll(lst);
+                    List<Integer> copy = new ArrayList<Integer>(lst);
                     Collections.sort(copy);
                     ans[ansIndex++] = copy.get(x - 1);
 
@@ -45,3 +45,4 @@ class Solution {
     }
 
 }
+
