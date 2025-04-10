@@ -18,9 +18,7 @@ class Solution {
                 j++;
             } else if (j - i + 1 == k) {
 
-                
-
-                if (!lst.isEmpty()) {
+                if (lst.size() >= x) {
                     List<Integer> copy = new ArrayList<Integer>(lst);
                     Collections.sort(copy);
                     ans[ansIndex++] = copy.get(x - 1);
