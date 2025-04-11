@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0263-ugly-number) |
 | [0935-orderly-queue](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0935-orderly-queue) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0053-maximum-subarray) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0209-minimum-size-subarray-sum) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0937-online-stock-span) |
