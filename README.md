@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0739-daily-temperatures) |
 | [0898-transpose-matrix](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1002-maximum-width-ramp) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1002-maximum-width-ramp) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1002-maximum-width-ramp) |
 ## Bit Manipulation
