@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0263-ugly-number) |
 | [0935-orderly-queue](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0935-orderly-queue) |
+| [1635-number-of-good-pairs](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1806-count-of-matches-in-tournament) |
 | [2032-largest-odd-number-in-string](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/2032-largest-odd-number-in-string) |
 | [3212-count-the-number-of-good-partitions](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/3212-count-the-number-of-good-partitions) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1635-number-of-good-pairs](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1635-number-of-good-pairs) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1547-destination-city](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1547-destination-city) |
+| [1635-number-of-good-pairs](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1635-number-of-good-pairs](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Two Pointers
