@@ -2,33 +2,33 @@ class Solution {
 
     public int longestSubarray(int[] nums) {
 
-        int i = 0;
-        int j = 0;
-        int zeroCount = 0;
-        int max = 0;
-        int n = nums.length;
+        int i=0;
+        int j=0;
+        int n=nums.length;
+        int zeroCount=0;
+        int max = Integer.MIN_VALUE;
 
-        while (j < n) {
+        while(j < n) {
 
             if (nums[j] == 0) {
                 zeroCount++;
             }
 
-            while(zeroCount > 1) {
+            while (zeroCount > 1) {
                 if (nums[i] == 0) {
                     zeroCount--;
                 }
                 i++;
             }
 
+
             max = Math.max(max, j - i);
 
             j++;
 
-        } 
+        }
 
         return max;
-
     }
 
 
