@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
+| [0605-can-place-flowers](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0605-can-place-flowers) |
 | [0692-top-k-frequent-words](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0739-daily-temperatures) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/0605-can-place-flowers) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Harshit-Kapoor/Leetcode_Questions/tree/master/2094-remove-stones-to-minimize-the-total) |
