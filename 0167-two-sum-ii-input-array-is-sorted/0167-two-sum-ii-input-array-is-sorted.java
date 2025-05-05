@@ -5,18 +5,18 @@ class Solution {
         int j = nums.length - 1;
 
         while (i < j) {
-            if (nums[i] + nums[j] < target) {
-                i++;
-            } else if (nums[i] + nums[j] > target) {
+
+            if (nums[i] + nums[j] > target) {
                 j--;
+            } else if (nums[i] + nums[j] < target) {
+                i++;
             } else {
                 return new int[]{i + 1, j + 1};
             }
 
         }
 
-
-        return new int[]{-1, -1};
+        return new int[]{-1,-1};
 
     }
 }
