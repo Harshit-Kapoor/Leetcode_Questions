@@ -1,28 +1,28 @@
 class Solution {
     public String reverseWords(String s) {
+
+        s = s.trim();    
+
+        String[] arr = s.split("\\s+");
+
+        int i = 0;
+        int j = arr.length - 1;        
         
-        String[] arr = s.trim().split("\\s+");
-        
-        int start = 0;
-        int end = arr.length - 1;
-        
-        while (start < end) {
-            String temp = arr[start];
-            arr[start] = arr[end];
-            arr[end] = temp;
-            start++;
-            end--;
+        while (i < j) {
+            String temp = arr[i];
+            arr[i] = arr[j];
+            arr[j] = temp;
+            i++;
+            j--;
         }
-        
-        String ans = "";
-        
-        for (int i=0; i<arr.length - 1; i++) {
-            ans += arr[i] + " ";
+
+        StringBuffer ans = new StringBuffer();
+
+        for (String st : arr) {
+            ans.append(st).append(" ");
         }
-        
-        ans += arr[arr.length - 1];
-        
-        return ans;
-        
+
+        return ans.toString().trim();
+
     }
 }
