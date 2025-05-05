@@ -1,4 +1,5 @@
 class Solution {
+
     public static int[] searchRange(int[] arr, int target) {
 
         int left = 0;
@@ -38,4 +39,25 @@ class Solution {
 
         return new int[]{leftMostPosition, rightMostPosition}; 
     }
+
+/*    public static int[] searchRange(int[] arr, int target) {
+
+        int startIndex = -1;
+        int endIndex = -1;
+
+        for (int i=0; i<arr.length; i++) {
+
+            if (arr[i] == target && startIndex == -1) {
+                startIndex = i;
+            }
+
+            if (arr[i] == target) {
+                endIndex = i;
+            }
+
+        }
+
+        return new int[]{startIndex, endIndex};
+
+    } */
 }
