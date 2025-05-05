@@ -12,7 +12,7 @@ class Solution {
         List<Map.Entry<String, Integer>> list = new ArrayList<>(map.entrySet());
 
         Collections.sort(list, (a, b) -> {
-            if (a.getValue().equals(b.getValue())) {
+            if (a.getValue() == (b.getValue())) {
                 return a.getKey().compareTo(b.getKey());
             }
             return b.getValue() - a.getValue();
