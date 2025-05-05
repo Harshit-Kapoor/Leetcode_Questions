@@ -32,7 +32,7 @@ class Solution {
             map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
         }
 
-        // Now iterate over the list check if element is present in list then uski freq jitna add krdo
+        // Now iterate over the list check if element is present in map then uski freq jitna add krdo
 
         int[] result = new int[n];
 
